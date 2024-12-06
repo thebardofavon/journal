@@ -1,2 +1,2 @@
 # journal
-Online journal application is under construction.
+Online blog application is under construction.
